@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>45.90.28.0</string>
+                    <string>45.90.30.0</string>
+                </array>
+                <key>ServerName</key>
+                <string>bb475f.dns.nextdns.io</string>
+            </dict>
+            <key>PayloadDisplayName</key>
+            <string>bodeptrai</string>
+            <key>PayloadIdentifier</key>
+            <string>com.profile.dns.001</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>6D383A00-1111-2222-3333-444455556666</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>bodeptrai</string>
+    <key>PayloadDescription</key>
+    <string>bodeptraiahihi
+Tiktok: _min.thien._
+Locket: mtneahihi</string>
+    <key>PayloadIdentifier</key>
+    <string>com.profile.system.001</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>6D383A99-AAAA-BBBB-CCCC-1234567890AB</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
